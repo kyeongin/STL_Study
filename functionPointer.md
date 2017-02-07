@@ -28,7 +28,7 @@
         void Print(){
 
         }
-    }
+    };
 
     int main(){
         Point pt;
